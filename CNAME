@@ -1,0 +1,4 @@
+echo "velcrounderground.com" > CNAME
+git add CNAME
+git commit -m "Add custom domain CNAME"
+git push
